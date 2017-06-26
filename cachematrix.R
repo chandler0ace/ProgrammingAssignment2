@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Because matrix inversion is usually a costly computation, this pair of functions
+## caches the inverse of a matrix rather than compute it repeatedly.
 
 
 ## This function creates a special "matrix" object that can cache its inverse.
